@@ -1,1 +1,1 @@
-# weeby
+This is a bit of a black sheep project.  My friend needed a way to mass download hentai photos from a website called Gelbooru.  Don't go there if you don't already know what it is.  However, I am always up for a challenge, so I said bring it!
